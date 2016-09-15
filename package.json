@@ -9,8 +9,6 @@
     "node": "0.8.x"
   },
   "dependencies": {
-    "express": "2.5.1",
-    "webrtc.io": "0.0.2-3",
-    "ws": "0.4.21"
+    "http": "0.3.4"
   }
 }
